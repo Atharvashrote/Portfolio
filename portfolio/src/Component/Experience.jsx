@@ -54,7 +54,7 @@ function Experience() {
         <div>
           <h1 className="text-3xl font-bold">Experience</h1>
           <p className="font-semibold">
-            I have more than 2 years of experience in these technologies
+            I have more than 3 years of experience in these technologies
           </p>
           <div className="grid grid-cols-2 md:grid-cols-5 gap-7 my-3">
             {cardItem.map(({ id, logo, name }) => (
