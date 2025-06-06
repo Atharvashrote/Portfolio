@@ -32,8 +32,8 @@ function Home() {
               <div className="text-2xl md:text-4xl text-red-600 font-bold">
                 <Typewriter
                   words={[
-                    "Front-End Developer",
-                    "Developer",
+                    "Full-Stake Developer",
+                    "Web-Developer",
                     "Programmer",
                   ]}
                   loop={0} // 0 for infinite loop
