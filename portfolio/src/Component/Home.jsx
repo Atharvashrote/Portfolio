@@ -39,7 +39,7 @@ function Home() {
                   loop={0} // 0 for infinite loop
                   cursor
                   cursorStyle="_"
-                  typeSpeed={70}
+                  typeSpeed={60}
                   deleteSpeed={50}
                   delaySpeed={1000}
                 />
@@ -50,8 +50,7 @@ function Home() {
               Dynamic and detail-oriented Front-End Developer with 3 years of
               experience in designing, developing, and optimizing user
               interfaces for web applications. Proficient in HTML, CSS,
-              JavaScript, and modern front-end frameworks like React, Angular,
-              or Vue.js. Adept at building responsive, mobile-first websites
+              JavaScript, and modern front-end frameworks like React, Angular. Adept at building responsive, mobile-first websites
               with a focus on performance, accessibility, and user experience
               (UX). Strong problem-solving skills and a passion for creating
               visually appealing and intuitive digital products. Experienced in
