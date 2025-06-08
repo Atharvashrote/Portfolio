@@ -18,7 +18,7 @@ function Footer() {
               <FaWhatsappSquare size={24} />
             </div>
             <div className="mt-8 border-t border-gray-700 pt-8 flex flex-col item-centre">
-              <p>&copy; 2024 Atharva. All Right Reserved</p>
+              <p>&copy; 2025 Atharva. All Right Reserved</p>
               <p className="text-sm  flex items-center justify-center"> Supportive Patner Atharva</p>
             </div>
           </div>
